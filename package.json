@@ -1,4 +1,22 @@
 {
+  "name": "km-libs",
+  "version": "1.0.0",
+  "description": "Shared Node.js utility library for Keyboard Maestro macros, migrated from TextExpander JS snippets",
+  "main": "te-utils.js",
+  "author": "Andrew Cates",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catesandrew/km-libs.git"
+  },
+  "keywords": [
+    "keyboard-maestro",
+    "textexpander",
+    "macos",
+    "automation",
+    "text-expansion",
+    "case-conversion"
+  ],
   "dependencies": {
     "lodash": "^4.18.1"
   }
